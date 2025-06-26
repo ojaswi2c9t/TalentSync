@@ -29,14 +29,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 Feel free to reach out via 
 - [LinkedIn](https://www.linkedin.com/in/ojaswigahoi/) [Ojaswi Gahoi]
-- [LinkedIn](https://www.linkedin.com/in/madhuram-kulshrestha-24593a251/) [Madhuram Kulshrestha]
-
 or open an issue.
-
----
-## 🙌 Team
-
-This project is a team collaboration by:
-
-- **Ojaswi Gahoi** — [GitHub](https://github.com/ojaswi2c9t)
-- **Madhuram Kulshrestha** — [GitHub](https://github.com/madhuramkulshrestha123) 
